@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class que5 {
+public class largest {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
         int num1=in.nextInt();
