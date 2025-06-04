@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class que6 {
+public class currency {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
         System.out.println("Enter the currency in Ruppess:");
