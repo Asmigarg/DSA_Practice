@@ -1,5 +1,3 @@
-# DSA_Practice
-
 # DSA Bootcamp Java – Solutions
 
 This repository contains my personal solutions to the problems and assignments from the **DSA Bootcamp Java** course by [Kunal Kushwaha](https://github.com/kunal-kushwaha).
