@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class que3 {
+public class SimpleInterest {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
         int p=in.nextInt();
